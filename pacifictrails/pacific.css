@@ -112,7 +112,7 @@ figure {    position: absolute;
             opacity: .25; }
 
 .required{
-	color: red;
+	color: yellow;
 }
 
 @media only screen and (max-width: 768px){
